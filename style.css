@@ -30,7 +30,7 @@ body {
     background: #ddd;
   }
   ul li.checked {
-    background:#0003bd ;
+    background:#0077ff ;
     color: #fff;
     text-decoration: line-through;
   }
@@ -57,7 +57,7 @@ body {
     color: white;
   }
   .header {
-    background-color: #0003bd;
+    background-color: #0077ff;
     padding: 30px 40px;
     color: white;
     text-align: center;
